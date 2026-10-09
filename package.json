@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@expo/ngrok": "^4.1.0",
+    "nativewind": "^4.2.7",
+    "react-native-reanimated": "^4.7.1",
+    "react-native-safe-area-context": "^5.10.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^57.0.14",
+    "prettier-plugin-tailwindcss": "^0.5.11",
+    "tailwindcss": "^3.4.17"
+  }
+}
